@@ -1,264 +1,233 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                   HEADER WAVE                   -->
-<!-- ═══════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=230&section=header&text=eh3ano-0&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=سلام!%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20Computer%20Engineer%20%7C%20Arch%20Linux%20Believer%20%F0%9F%90%A7&descAlignY=60&descSize=17&descColor=8b949e" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ehsan%20Khodadust&fontSize=54&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Specialist%20%7C%20Applied%20AI&descAlignY=62&descSize=19&descColor=8b949e" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/eh3ano-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Computer+Engineer+%7C+AI+Enthusiast+%F0%9F%A4%96;Backend+Dev+%7C+Flask+%2F+Django+%2F+Laravel;Linux+Power+User+%7C+Arch+btw+%F0%9F%90%A7;ISTP+%E2%80%94+I+build+first%2C+talk+later+%F0%9F%94%A7;Less+talk.+More+code.+Ship+it.+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- DYNAMIC TYPING ANIMATION -->
+<a href="https://eh3anm.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=Software+Engineer+%26+Backend+Specialist;Scalable+APIs+%7C+Microservices+%7C+Database+Arch;Applied+AI+%26+Computer+Vision+%7C+YOLOv5+%26+PyTorch;Linux+Power+User+%7C+Arch+Linux+%26+Docker;Clean+Architecture+%7C+Practical+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=eh3ano-0&style=for-the-badge&color=0e75b6&label=VISITORS" alt="visitors"/>
+<!-- TOP BADGES -->
+<a href="https://eh3anm.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-eh3anm.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/eh3ano-0?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Followers"/>
+<a href="https://www.linkedin.com/in/eh3anmo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ehsan_Khodadust-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/MBTI-ISTP-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAyLjA1djIuMDJjMy45NS41MSA3IDMuODUgNyA3Ljkzcy0zLjA1IDcuNDItNyA3LjkzdjIuMDJjNS4wNS0uNTIgOS00LjcxIDktOS45NXMtMy45NS05LjQzLTktOS45NXpNMTEgMi4wNUMyIDIuNTcgMiA3LjkzIDIgMTJzMCA5LjQzIDkgOS45NVYxOS45M0M2LjA1IDE5LjQyIDQgMTYuMDggNCAxMnMyLjA1LTcuNDIgNy03Ljkzdi0yLjAyeiIvPjwvc3ZnPg=="/>
+<img src="https://img.shields.io/badge/Degree-B.Sc.%20Computer%20Engineering-2563eb?style=for-the-badge&logo=academia&logoColor=white" alt="B.Sc. Computer Engineering"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=eh3anm&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## ⚡ About Me — Terminal Style
+## 📌 About Me
 
-<div align="center">
+I am a **Software Engineer** and **Computer Engineering graduate** (B.Sc. in Software Engineering, Bozorgmehr University of Qaenat) specialized in designing resilient **backend architectures**, **relational database systems**, and **applied computer vision solutions**.
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ~/eh3ano-0  ▶  whoami                                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  name        →  ehsan khodadust                                  ║
-║  location    →  Iran 🇮🇷                                           ║
-║  field       →  Computer Engineering (Software + AI)             ║
-║  os          →  Arch Linux  [yes, I use btw]  🐧                 ║
-║  mbti        →  ISTP — The Craftsman 🔧                          ║
-║  interests   →  Linux · Gaming · Networking · AI · Open Source   ║
-║  english     →  Intermediate (B1–B2)                             ║
-║                                                                  ║
-║  ~/eh3ano-0  ▶  cat current_goals.txt                            ║
-║                                                                  ║
-║  ▸  Shipping scalable backends with Django & Laravel             ║
-║  ▸  Deep-diving Computer Vision & AI applications                ║
-║  ▸  Mastering Docker internals & Linux wizardry                  ║
-║  ▸  Exploring the world of Computer Networking                   ║
-║                                                                  ║
-║  ~/eh3ano-0  ▶  echo $MOTTO                                      ║
-║  "Keep it simple. Keep it Arch. Ship it." 🚀                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+My engineering philosophy is fundamentally pragmatic: **build software that creates tangible real-world value**. Rather than following tools dogmatically, I select the most appropriate technology to solve each architectural and operational challenge cleanly and reliably.
 
-</div>
+- 🚀 **Backend & Distributed Systems**: Extensive production experience crafting robust RESTful APIs, business logic, authentication systems, and database schemas with **PHP (Laravel)** and **Python (Django / FastAPI)**.
+- 👁️ **Applied AI & Computer Vision**: Practical engineering in object detection and optical character recognition pipelines, including my capstone system **AI-PLATE** using **YOLOv5** and **PyTorch**.
+- 🐧 **Linux-First & DevOps Mentality**: Daily driver of **Arch Linux** and Ubuntu. Proficient with Docker containerization, bash scripting, Nginx configuration, and CI/CD pipelines.
+- 🎯 **Engineering Mindset (ISTP)**: Focused on rapid diagnosis, clean abstractions, and high operational reliability. Less talk, more battle-tested code delivered to production.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience & Campus Systems
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Role / Organization</th>
+      <th align="left">Platform / Focus</th>
+      <th align="left">Key Contributions & Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Backend Developer</strong><br/><sub>Rabo Company</sub></td>
+      <td>Enterprise Backend & Web Systems</td>
+      <td>Engineered high-stability server-side platforms and APIs using <code>Laravel</code> and <code>MySQL</code>. Managed relational database schemas, business logic, and custom enterprise WordPress extensions.</td>
+    </tr>
+    <tr>
+      <td><strong>Platform Engineer</strong><br/><sub>Bozorgmehr University of Qaenat</sub></td>
+      <td><a href="https://ctf.buqaen.ac.ir/"><strong>CTF Competition Platform</strong></a></td>
+      <td>Co-developed and deployed the university's cybersecurity Capture The Flag platform (<a href="https://ctf.buqaen.ac.ir/">ctf.buqaen.ac.ir</a>) to evaluate programming and security skills.</td>
+    </tr>
+    <tr>
+      <td><strong>Platform Engineer</strong><br/><sub>Bozorgmehr University of Qaenat</sub></td>
+      <td><a href="https://icpc.buqaen.ac.ir/"><strong>ICPC Contest Platform</strong></a></td>
+      <td>Developed and managed the competitive programming contest management platform (<a href="https://icpc.buqaen.ac.ir/">icpc.buqaen.ac.ir</a>) supporting real-time judging and collegiate rankings.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Category</th>
+      <th align="left">Stack</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/eh3anm/AI-PLATE"><strong>AI-PLATE</strong></a></td>
+      <td><code>AI / Vision</code></td>
+      <td><code>Python</code> <code>YOLOv5</code> <code>PyTorch</code> <code>OpenCV</code> <code>Qt (PySide6)</code> <code>SQLite</code></td>
+      <td>Intelligent Iranian vehicle license plate recognition (ALPR) system. Features real-time detection, PySide6 desktop GUI, Jalali date analytics, query filtering, and Excel export. (Bachelor's Capstone).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eh3anm/smart-sports-scoreboard"><strong>Smart Sports Scoreboard</strong></a></td>
+      <td><code>Embedded / Systems</code></td>
+      <td><code>C++</code> <code>Arduino</code> <code>UART</code> <code>Proteus</code> <code>Hardware</code></td>
+      <td>Dual-Arduino smart scoreboard featuring Master-Slave UART communication, multiplexed 7-segment displays, 16x2 LCD, keypad input, and non-volatile EEPROM storage.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eh3anm/parking-manger"><strong>Parking Manager</strong></a></td>
+      <td><code>Backend / CRUD</code></td>
+      <td><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Bootstrap</code></td>
+      <td>Comprehensive urban parking management application handling vehicle check-ins, automated rate calculation, reporting, and full CRUD records.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eh3anm/toolshop-car"><strong>Toolshop Car</strong></a></td>
+      <td><code>Backend</code></td>
+      <td><code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>CRUD</code></td>
+      <td>Automotive spare parts catalog, inventory management, and customer invoice tracking platform built with Laravel and relational databases.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eh3anm/versa-cafe"><strong>Versa Cafe</strong></a></td>
+      <td><code>Web App</code></td>
+      <td><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Local Storage</code></td>
+      <td>Offline-first cafe order registration, menu administration, and billing web panel with a fast, modern responsive user interface.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eh3anm/arch-mysql-workbench-server-guide"><strong>Arch MySQL Guide</strong></a></td>
+      <td><code>DevOps / Docs</code></td>
+      <td><code>Linux</code> <code>Arch Linux</code> <code>MySQL</code> <code>Bash</code></td>
+      <td>Step-by-step engineering documentation and automated configuration guide for deploying MySQL Server and remote Workbench connectivity on Arch Linux.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,php&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,js,ts,bash&theme=dark&perline=6" alt="Languages"/>
 </a>
 
-### Backend
+### Backend & Architecture
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,symfony,wordpress&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,fastapi,flask,wordpress&theme=dark&perline=6" alt="Backend"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=curl&logoColor=white" alt="RESTful APIs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Microservices-232F3E?style=flat-square&logoColor=white" alt="Microservices"/>
+
+### AI, Data & Computer Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=6" alt="AI & Vision"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PySide6%20(Qt)-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6 Qt"/>
+
+### Databases & Caching
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark&perline=6" alt="Databases"/>
+</a>
+
+### DevOps, OS & Tooling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,docker,git,githubactions,nginx,postman,neovim,vscode&theme=dark&perline=6" alt="DevOps & Tools"/>
 </a>
 
 ### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,vue,vite,md,lua,ts&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,react&theme=dark&perline=6" alt="Frontend"/>
 </a>
-
-### Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark&perline=6" />
-</a>
-
-### DevOps & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,neovim,vscode,qt,nginx,npm,yarn,figma,arduino,stackoverflow,cloudflare,cmake,svg&theme=dark&perline=6" />
-</a>
-<br/>
-<img src="https://custom-icon-badges.demolab.com/badge/Kitty-3B3B3B?logo=kitty&logoSource=https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg&logoColor=white&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-&nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
-&nbsp;
-<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
-
-
-### AI & Computer Vision
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,pytorch&theme=dark&perline=6" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" />
-
-### My AI Stack
-
-<div align="center">
-
-<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
-&nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?style=flat-square&logo=deepseek&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=v0&logoColor=white" />
-
-</div>
-
-
 
 </div>
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
-    </td>
-  </tr>
-</table>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eh3ano-0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=760" width="760"/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eh3ano-0&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=1f6feb&point=58A6FF&bg_color=0d1117" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eh3anm/eh3anm/main/snake/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3anm/eh3anm/main/snake/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/eh3anm/eh3anm/main/snake/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-
 ---
 
-## 🎮 A Bit More About Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="40"/><br/>
-      <strong>🐧 Linux Life</strong><br/>
-      <sub>Arch Linux daily driver. I install from scratch — every time — just for fun.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="40"/><br/>
-      <strong>🎮 Gaming Mode</strong><br/>
-      <sub>When I'm not coding I'm in a game. Strategy, FPS, RPG — anything that requires thinking.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40"/><br/>
-      <strong>🤖 AI Projects</strong><br/>
-      <sub>Built a Computer Vision project I'm genuinely proud of. AI is where I'm going deeper.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40"/><br/>
-      <strong>🔧 ISTP Energy</strong><br/>
-      <sub>I don't talk about what I'll build — I build it, then maybe mention it.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=redhat&theme=dark" width="40"/><br/>
-      <strong>🌐 Networking Nerd</strong><br/>
-      <sub>Packets, protocols, and everything between. Wireshark is relaxing, honestly.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/>
-      <strong>📦 Docker Fan</strong><br/>
-      <sub>"Works on my machine" is not in my vocabulary. Containerize everything.</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💬 Personal Motto
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<a href="https://eh3anm.github.io/">
+  <img src="https://img.shields.io/badge/Website-eh3anm.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/eh3anmo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ehkhodadust@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://t.me/eh3anmo">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@eh3anmo">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+&nbsp;
+<a href="https://github.com/eh3anm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-> *"The quieter you become, the more you are able to hear — and the more code you ship."*
->
-> **— Less talk. More build. Keep it Arch. 🐧**
+> *"Simplicity is prerequisite for reliability."* &nbsp;—&nbsp; **Clean Code • Solid Architecture • Arch Linux**
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:ehkhodadust@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://t.me/eh3ano_0">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/eh3ano_0">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⚡ Built with passion from Iran 🇮🇷 &nbsp;|&nbsp; ISTP &nbsp;•&nbsp; Arch Linux &nbsp;•&nbsp; Coffee → Code</sub>
+<sub>© 2026 Ehsan Khodadust. Built with precision.</sub>
 
 </div>
